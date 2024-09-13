@@ -4,8 +4,8 @@
 
 ## Features:
 - **Fast Checking**
-- **Checks Number Carrier**
-- **Accurate**
+- **Check Number Carrier**
+- **Accurate Result**
 - **Unlimited Checking**
 - **Built-in API**
 - **Support All Carrier**
