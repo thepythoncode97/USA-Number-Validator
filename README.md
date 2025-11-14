@@ -12,6 +12,7 @@
 - **Bulk Import**: Import any quantity of phone numbers for validation.
 - **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
 - **Always Active Servers**: Reliable service with minimal downtime.
+- **No Third-Party API Key Required** : Everything runs on our own infrastructure—no external services, no extra setup, no hidden dependencies.
 
 ---
 
